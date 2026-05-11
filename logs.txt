@@ -1,0 +1,11 @@
+2026-05-10 21:35:20.820696 - Cliente registrado correctamente
+2026-05-10 21:35:20.825147 - ERROR cliente invalido: El nombre no puede estar vacío
+2026-05-10 21:35:20.833435 - Servicios creados correctamente
+2026-05-10 21:35:20.843672 - Reserva exitosa Total: 300
+2026-05-10 21:35:20.853411 - ERROR reserva invalida: La duracion debe ser mayor a cero
+2026-05-10 21:35:20.861531 - Reserva asesoria creada: 178.5
+2026-05-10 21:35:20.872913 - Reserva asesoria creada: 357.0
+2026-05-10 21:35:20.882235 - Reserva asesoria creada: 535.5
+2026-05-10 21:35:20.891345 - Reserva asesoria creada: 714.0
+2026-05-10 21:35:20.901117 - Reserva asesoria creada: 892.5
+2026-05-10 21:35:20.909890 - Reserva asesoria creada: 1071.0
